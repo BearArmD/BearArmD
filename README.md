@@ -6,6 +6,12 @@
 - 😄 Pronouns: ... does not matter much, but im a man, i answer to he or him.
 - ⚡ Fun fact: ... 🍌bananas🍌 are berries, whereas 🍓strawberries🍓 are not.😏
 
+
+## Projects
+- **[ForbiddenReader](https://github.com/BearArmD/ForbiddenReader)** — 
+  Offline document-to-speech tool. Wraps Piper TTS with a full GUI, 
+  5 bundled voices, WAV export, and a Windows installer. Built with Python.
+  
 <!---
 BearArmD/BearArmD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
