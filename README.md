@@ -11,6 +11,9 @@
 - **[ForbiddenReader](https://github.com/BearArmD/ForbiddenReader)** — 
   Offline document-to-speech tool. Wraps Piper TTS with a full GUI, 
   5 bundled voices, WAV export, and a Windows installer. Built with Python.
+
+- **[ForbiddenToolkit](https://github.com/BearArmD/ForbiddenToolkit)** -
+  CTF-style encoder/decoder for simple ciphering, Hash-Id, and ExifTool; all bundled under 'Forbidden Cheese' branding.
   
 <!---
 BearArmD/BearArmD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
